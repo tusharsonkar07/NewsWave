@@ -57,15 +57,6 @@ NewsWave/
 
 ---
 
-## 🔗 API Configuration
-
-If using a News API, add your API key in the JavaScript file:
-
-```js
-const API_KEY = "YOUR_API_KEY";
-```
-
----
 
 ## 🤝 Contributing
 
